@@ -1,0 +1,7 @@
+- Name: ToAFriend
+  Version: 1.0.0
+  Dependencies:
+    - Name: Everest
+      Version: 1.0.0
+    - Name: MaxHelpingHand
+      Version: 1.24.1

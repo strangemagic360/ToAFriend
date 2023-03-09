@@ -1,0 +1,21 @@
+
+StrangeMagic360_ToAFriend_ToAFriend= To A Friend
+poem_StrangeMagic360_ToAFriend_ToAFriend_A= Hope you had fun!
+
+dialog01=
+[MADELINE left normal]
+Hey Man, it's been a bit since I've left home and I know that you're probably missing me, so I put together a map for you to play. 
+Maybe it will help you get a little better at the game and one day match my awesomeness.
+First, however, I need to thank some people for helping playtest and give advice on the level.
+Spooooky ♥, <\[Iris\]>, Random Name, CadenGS, AIex.
+raw_pickles, SkyeLime, sugar, jj13
+Thank you to all these amazing people who helped and contributed to this map.
+Good luck finding the strawberries.
+
+dialog02=
+[MADELINE left upset]
+That was the hardest strawberry in the whole map\.\.\.
+
+dialog03=
+[MADELINE left normal]
+Don't give up, man. You've got this. This level is a bit harder than the rest of the map, but I believe in you!
